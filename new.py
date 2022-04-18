@@ -1,0 +1,6 @@
+a= 10 
+b=15
+print(a+b)
+
+print("hello world")
+print("just born")
